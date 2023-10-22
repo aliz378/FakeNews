@@ -43,6 +43,7 @@ instance/
 
 # Environments
 .venv
+.env
 env/
 venv/
 ENV/
